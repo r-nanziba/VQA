@@ -1,56 +1,20 @@
-base:
-  use_cuda: True
-
 data:
-  dataset_folder: dataset
-  images_folder: images
-  all_qa_pairs_file: all_qa_pairs.txt
-  train_dataset: data_train.csv
-  eval_dataset: data_eval.csv
-  question_col: question
-  image_col: image_id
-  answer_col: answer
-  answer_space: answer_space.txt
-
-tokenizer:
-  padding: longest
-  max_length: 24
-  truncation: True
-  return_token_type_ids: True
-  return_attention_mask: True
+  dataset_folder: "dataset/"
+  images_folder: "dataset/images/"
+  train_data: "dataset/data_train.csv"
+  eval_data: "dataset/data_eval.csv"
+  answer_space: "dataset/answer_space.txt"
 
 model:
-  name: roberta-beit  # Custom name for the multimodal model
-  text_encoder: roberta-base # Valid transformer model for text encoding from HuggingFace
-  image_encoder: microsoft/beit-base-patch16-224-pt22k-ft22k  # Valid transformer model for image encoding from HuggingFace
-  intermediate_dims: 512
-  dropout: 0.5
+  text: "bert-base-uncased"        # start with this, safest choice
+  image: "google/vit-base-patch16-224-in21k"   # start with ViT
 
-train:
-  output_dir: checkpoint
-  seed: 12345
-  num_train_epochs: 5
-  learning_rate: 5.0e-5
-  weight_decay: 0.0
-  warmup_ratio: 0.0
-  warmup_steps: 0
-  evaluation_strategy: steps
-  eval_steps: 100
-  logging_strategy: steps
-  logging_steps: 100
-  save_strategy: steps
+training:
+  output_dir: "output/"
+  num_train_epochs: 20             # 20 is good for your dataset size
+  batch_size: 32
+  learning_rate: 5e-5
   save_steps: 100
-  save_total_limit: 3            # Save only the last 3 checkpoints at any given time while training 
-  metric_for_best_model: wups
-  per_device_train_batch_size: 32
-  per_device_eval_batch_size: 32
-  remove_unused_columns: False
-  dataloader_num_workers: 8
-  load_best_model_at_end: True
-
-metrics:
-  metrics_folder: metrics
-  metrics_file: metrics.json
-
-inference:
-  checkpoint: checkpoint-1500
+  eval_steps: 100
+  logging_steps: 50
+  seed: 42
