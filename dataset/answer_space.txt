@@ -1,0 +1,175 @@
+anterior cranial fossa region
+anterior frontal convexity
+anterior skull base
+anterior skull base region
+bifrontal base region
+bifrontal corpus callosum region
+bifrontal midline region
+bilateral cerebral hemispheres
+bilateral frontal lobes
+bilateral frontoparietal lobes
+bilateral frontoparietal region
+bilateral parietal lobes
+bilateral periventricular region
+bilateral posterior fossa
+bilateral temporal region
+bilateral temporal skull base
+bilateral thalamic region
+central corpus callosum region
+central midline region
+central parasagittal region
+central parietal region
+central posterior fossa
+central posterior fossa region
+central sellar region
+central skull base
+central skull base region
+central skull base sellar region
+central suprasellar region
+central thalamic region
+cerebellar vermis posterior fossa
+glioma
+inferior cerebellar region
+inferior cerebellar vermis
+left anterior temporal region
+left basal ganglia region
+left cavernous sinus region
+left cerebellar hemisphere
+left cerebellar region
+left frontal convexity
+left frontal lobe
+left frontal lobe suprasellar
+left frontal paramedian region
+left frontal parasagittal
+left frontal parasagittal region
+left frontal region
+left frontal skull base
+left frontoparietal convexity
+left frontoparietal region
+left frontotemporal convexity
+left frontotemporal region
+left hemisphere diffuse
+left hemisphere frontoparietal region
+left lateral ventricle region
+left middle cranial fossa
+left occipital lobe
+left occipital region
+left parietal convexity
+left parietal lobe
+left parietal region
+left parietal temporal region
+left periventricular region
+left posterior cerebellar region
+left posterior fossa
+left posterior fossa region
+left posterior parietal convexity
+left posterior temporal region
+left superior frontal convexity
+left temporal basal ganglia region
+left temporal convexity
+left temporal fossa
+left temporal lobe
+left temporal occipital region
+left temporal parietal convexity
+left temporal parietal region
+left temporal periventricular region
+left temporal region
+left temporal skull base
+meningioma
+middle cranial fossa region
+no
+no tumor
+no tumor present
+parasagittal frontal region
+parietal occipital region
+periventricular thalamic region
+pituitary tumor
+posterior fossa bilateral
+posterior fossa brainstem region
+posterior fossa cerebellar
+posterior fossa cerebellar region
+posterior fossa cerebellar vermis
+posterior fossa cerebellopontine
+posterior fossa cerebellum
+posterior fossa inferior region
+posterior fossa midline
+posterior fossa midline region
+posterior fossa region
+posterior fossa sellar region
+posterior fossa skull base
+posterior fossa thalamic region
+posterior parietal lobe
+posterior parietal occipital lobe
+posterior parietal occipital region
+posterior temporal parietal region
+right anterior frontal region
+right anterior skull base
+right anterior temporal region
+right cavernous sinus region
+right central parietal region
+right cerebellar hemisphere
+right cerebellar region
+right frontal convexity
+right frontal lobe
+right frontal paramedian region
+right frontal parasagittal
+right frontal parasagittal region
+right frontal parietal lobe
+right frontal parietal region
+right frontal region
+right frontal temporal region
+right frontoparietal convexity
+right frontoparietal hemisphere
+right frontoparietal region
+right frontotemporal region
+right inferior cerebellar region
+right occipital parietal region
+right parasagittal frontal
+right parasagittal frontal region
+right parasagittal parietal region
+right parasagittal region
+right parietal convexity
+right parietal lobe
+right parietal occipital lobe
+right parietal occipital region
+right parietal region
+right parieto occipital region
+right periventricular region
+right posterior cerebellar region
+right posterior fossa
+right posterior parietal region
+right posterior periventricular region
+right posterior temporal region
+right skull base region
+right sphenoid wing region
+right superior frontal lobe
+right superior frontoparietal
+right superior parietal convexity
+right temporal convexity
+right temporal fossa
+right temporal lobe
+right temporal occipital region
+right temporal parietal lobe
+right temporal parietal region
+right temporal posterior fossa
+right temporal region
+right temporal skull base
+right temporoparietal region
+right thalamic region
+sellar and parasellar region
+sellar and suprasellar region
+sellar region
+sellar region anterior skull base
+sellar region large suprasellar mass
+sellar region left parasellar
+sellar region midline
+sellar region right parasellar
+sellar region suprasellar extension
+sellar region with suprasellar extension
+sellar suprasellar region
+superior parasagittal region
+suprasellar chiasmatic region
+suprasellar hypothalamic region
+suprasellar region
+thalamic posterior fossa region
+yes
