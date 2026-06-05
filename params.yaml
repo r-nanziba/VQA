@@ -1,28 +1,52 @@
+base:
+  use_cuda: true
+
 data:
-  dataset_folder: "dataset/"
-  images_folder: "dataset/images/"
-  train_data_path: "dataset/data_train.csv"
-  eval_data_path: "dataset/data_eval.csv"
-  answer_space_path: "dataset/answer_space.txt"
+  dataset_folder: "dataset"
+  images_folder: "images"
+  train_dataset: "data_train.csv"
+  eval_dataset: "data_eval.csv"
+  question_col: "question"
+  image_col: "image_id"
+  answer_col: "answer"
+  answer_space: "answer_space.txt"
+
+metrics:
+  metrics_folder: "metrics"
+  metrics_file: "metrics.json"
 
 model:
-  text: "bert-base-uncased"
-  image: "google/vit-base-patch16-224-in21k"
-  num_labels: 175
+  name: "bert-vit"
+  text_encoder: "bert-base-uncased"
+  image_encoder: "google/vit-base-patch16-224-in21k"
+  intermediate_dims: 512
+  dropout: 0.5
 
-training:
-  output_dir: "output/bert_vit"
-  overwrite_output_dir: true
+tokenizer:
+  padding: "longest"
+  max_length: 24
+  truncation: true
+  return_token_type_ids: true
+  return_attention_mask: true
+
+train:
+  output_dir: "checkpoint"
+  seed: 42
   num_train_epochs: 20
+  learning_rate: 5e-05
+  weight_decay: 0.0
+  warmup_ratio: 0.0
+  warmup_steps: 0
+  evaluation_strategy: "steps"
+  eval_steps: 100
+  logging_strategy: "steps"
+  logging_steps: 100
+  save_strategy: "steps"
+  save_steps: 100
+  save_total_limit: 3
+  metric_for_best_model: "wups"
   per_device_train_batch_size: 32
   per_device_eval_batch_size: 32
-  warmup_steps: 100
-  weight_decay: 0.01
-  learning_rate: 0.00005
-  logging_dir: "logs/bert_vit"
-  logging_strategy: "epoch"
-  evaluation_strategy: "epoch"
-  save_strategy: "epoch"
+  remove_unused_columns: false
+  dataloader_num_workers: 8
   load_best_model_at_end: true
-  metric_for_best_model: "wups"
-  seed: 42
