@@ -1,20 +1,28 @@
 data:
   dataset_folder: "dataset/"
   images_folder: "dataset/images/"
-  train_data: "dataset/data_train.csv"
-  eval_data: "dataset/data_eval.csv"
-  answer_space: "dataset/answer_space.txt"
+  train_data_path: "dataset/data_train.csv"
+  eval_data_path: "dataset/data_eval.csv"
+  answer_space_path: "dataset/answer_space.txt"
 
 model:
-  text: "bert-base-uncased"        # start with this, safest choice
-  image: "google/vit-base-patch16-224-in21k"   # start with ViT
+  text: "bert-base-uncased"
+  image: "google/vit-base-patch16-224-in21k"
+  num_labels: 175
 
 training:
-  output_dir: "output/"
-  num_train_epochs: 20             # 20 is good for your dataset size
-  batch_size: 32
-  learning_rate: 5e-5
-  save_steps: 100
-  eval_steps: 100
-  logging_steps: 50
+  output_dir: "output/bert_vit"
+  overwrite_output_dir: true
+  num_train_epochs: 20
+  per_device_train_batch_size: 32
+  per_device_eval_batch_size: 32
+  warmup_steps: 100
+  weight_decay: 0.01
+  learning_rate: 0.00005
+  logging_dir: "logs/bert_vit"
+  logging_strategy: "epoch"
+  evaluation_strategy: "epoch"
+  save_strategy: "epoch"
+  load_best_model_at_end: true
+  metric_for_best_model: "wups"
   seed: 42
