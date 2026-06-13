@@ -4,7 +4,7 @@ A Visual Question Answering (VQA) framework that combines transformer-based text
 
 ## 📌 Project Overview
 
-This project was developed as part of a Final Year Project (FYP2) at **Universiti Teknologi Malaysia (UTM)**, Malaysia-Japan International Institute of Technology (MJIIT), under the supervision of **Prof. Dr. Hamido Fujita**.
+This project was developed as part of a Final Year Project (FYP) at **Universiti Teknologi Malaysia (UTM)**, Malaysia-Japan International Institute of Technology (MJIIT), under the supervision of **Prof. Dr. Hamido Fujita**.
 
 The framework enables healthcare professionals to query brain MRI scans using simple natural language questions and receive accurate, contextually relevant answers — addressing the global shortage of radiological expertise.
 
