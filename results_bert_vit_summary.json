@@ -1,0 +1,100 @@
+{
+  "overall": {
+    "n": 800,
+    "accuracy": 0.8225,
+    "wups": 0.8233,
+    "f1": 0.0978
+  },
+  "by_question_type": {
+    "binary": {
+      "n": 391,
+      "accuracy": 1.0,
+      "wups": 1.0,
+      "f1": 1.0
+    },
+    "open_ended": {
+      "n": 409,
+      "accuracy": 0.6528,
+      "wups": 0.6543,
+      "f1": 0.0747
+    }
+  },
+  "by_tumor_class": {
+    "glioma": {
+      "n": 185,
+      "accuracy": 0.7405,
+      "wups": 0.7415,
+      "f1": 0.0538
+    },
+    "meningioma": {
+      "n": 201,
+      "accuracy": 0.7015,
+      "wups": 0.7037,
+      "f1": 0.0556
+    },
+    "pituitary": {
+      "n": 191,
+      "accuracy": 0.822,
+      "wups": 0.822,
+      "f1": 0.1697
+    },
+    "no tumor": {
+      "n": 223,
+      "accuracy": 1.0,
+      "wups": 1.0,
+      "f1": 1.0
+    }
+  },
+  "binary_per_class": {
+    "glioma": {
+      "n": 93,
+      "accuracy": 1.0,
+      "wups": 1.0,
+      "f1": 1.0
+    },
+    "meningioma": {
+      "n": 90,
+      "accuracy": 1.0,
+      "wups": 1.0,
+      "f1": 1.0
+    },
+    "pituitary": {
+      "n": 101,
+      "accuracy": 1.0,
+      "wups": 1.0,
+      "f1": 1.0
+    },
+    "no tumor": {
+      "n": 107,
+      "accuracy": 1.0,
+      "wups": 1.0,
+      "f1": 1.0
+    }
+  },
+  "openended_per_class": {
+    "glioma": {
+      "n": 92,
+      "accuracy": 0.4783,
+      "wups": 0.4802,
+      "f1": 0.0295
+    },
+    "meningioma": {
+      "n": 111,
+      "accuracy": 0.4595,
+      "wups": 0.4634,
+      "f1": 0.0301
+    },
+    "pituitary": {
+      "n": 90,
+      "accuracy": 0.6222,
+      "wups": 0.6222,
+      "f1": 0.1143
+    },
+    "no tumor": {
+      "n": 116,
+      "accuracy": 1.0,
+      "wups": 1.0,
+      "f1": 1.0
+    }
+  }
+}

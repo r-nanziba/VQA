@@ -1,0 +1,801 @@
+image_id,question,answer,label,question_type,tumor_class,pred_idx,predicted
+notumor_084,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_164,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_044,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_050,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+glioma_010,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_204,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_179,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_023,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_234,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_052,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_231,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+notumor_070,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_109,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_036,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_207,Where is the tumor located?,right temporal region,154,open_ended,meningioma,130,right parietal convexity
+meningioma_039,Where is the tumor located?,anterior skull base,2,open_ended,meningioma,159,sellar and suprasellar region
+meningioma_082,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_055,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_128,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_171,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_125,Where is the tumor located?,left temporal lobe,70,open_ended,glioma,112,right frontal lobe
+notumor_072,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_215,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_098,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_130,Where is the tumor located?,posterior fossa midline,94,open_ended,meningioma,130,right parietal convexity
+pituitary_097,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_156,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_020,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_136,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_055,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_171,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_205,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_249,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_105,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_055,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_223,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_170,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_050,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_136,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_241,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_135,Where is the tumor located?,sellar region anterior skull base,161,open_ended,pituitary,160,sellar region
+glioma_239,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_037,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+notumor_021,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_159,Where is the tumor located?,sellar region suprasellar extension,166,open_ended,pituitary,160,sellar region
+glioma_188,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+pituitary_177,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_059,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_184,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_248,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_152,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_040,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_113,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+pituitary_112,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_246,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_053,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_017,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_040,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_016,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_155,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_042,Where is the tumor located?,superior parasagittal region,169,open_ended,meningioma,130,right parietal convexity
+notumor_056,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_124,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_235,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+pituitary_249,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+notumor_025,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_071,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_136,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_036,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_222,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_036,Where is the tumor located?,left frontoparietal region,47,open_ended,glioma,112,right frontal lobe
+notumor_231,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+glioma_213,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+pituitary_196,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_180,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_197,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_126,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_067,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_019,Where is the tumor located?,left cerebellar hemisphere,36,open_ended,glioma,112,right frontal lobe
+pituitary_124,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_099,Where is the tumor located?,posterior fossa cerebellar region,89,open_ended,glioma,130,right parietal convexity
+notumor_096,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_057,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_023,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_182,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_100,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_092,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+notumor_079,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_226,Where is the tumor located?,right parietal convexity,130,open_ended,meningioma,130,right parietal convexity
+glioma_149,Where is the tumor located?,right temporal parietal region,152,open_ended,glioma,112,right frontal lobe
+pituitary_028,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_075,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_206,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+glioma_219,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_112,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_220,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_082,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_138,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_010,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_119,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_178,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_089,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_036,Where is the tumor located?,suprasellar region,172,open_ended,pituitary,160,sellar region
+notumor_133,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_245,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_143,Where is the tumor located?,right frontal convexity,111,open_ended,meningioma,130,right parietal convexity
+meningioma_031,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_197,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,77,meningioma
+pituitary_060,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+pituitary_242,Where is the tumor located?,sellar and parasellar region,158,open_ended,pituitary,160,sellar region
+pituitary_127,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_224,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_169,Where is the tumor located?,left temporal periventricular region,74,open_ended,glioma,112,right frontal lobe
+pituitary_203,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_018,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_183,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_104,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_037,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_130,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_163,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+glioma_207,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_067,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_155,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_029,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_105,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_018,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_157,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+notumor_005,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+pituitary_164,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_230,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_023,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_225,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_121,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_021,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_189,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_137,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_082,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_158,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_003,Where is the tumor located?,right central parietal region,108,open_ended,glioma,112,right frontal lobe
+pituitary_112,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_072,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_017,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_048,Where is the tumor located?,right parasagittal frontal region,127,open_ended,meningioma,130,right parietal convexity
+meningioma_111,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_246,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+notumor_183,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_185,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_152,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_143,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_107,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+pituitary_185,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_121,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_172,Where is the tumor located?,anterior skull base,2,open_ended,meningioma,112,right frontal lobe
+glioma_213,Where is the tumor located?,left basal ganglia region,34,open_ended,glioma,112,right frontal lobe
+pituitary_052,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+glioma_224,Where is the tumor located?,right frontal lobe,112,open_ended,glioma,112,right frontal lobe
+glioma_125,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_077,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_196,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,30,glioma
+glioma_084,Where is the tumor located?,right cerebellar region,110,open_ended,glioma,112,right frontal lobe
+pituitary_210,Where is the tumor located?,central skull base,24,open_ended,pituitary,160,sellar region
+notumor_022,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_129,Where is the tumor located?,left parietal lobe,57,open_ended,glioma,112,right frontal lobe
+meningioma_088,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_004,Where is the tumor located?,sellar suprasellar region,168,open_ended,meningioma,130,right parietal convexity
+pituitary_205,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_187,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_185,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+pituitary_203,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_074,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_063,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_193,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_246,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_196,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_143,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_197,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_018,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_090,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_201,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+notumor_082,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_079,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_159,Where is the tumor located?,right parietal convexity,130,open_ended,meningioma,112,right frontal lobe
+glioma_138,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+pituitary_098,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_120,Where is the tumor located?,sellar region suprasellar extension,166,open_ended,pituitary,160,sellar region
+pituitary_131,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_067,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_240,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+meningioma_057,Where is the tumor located?,left frontal lobe,39,open_ended,meningioma,130,right parietal convexity
+notumor_142,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_015,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_240,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_194,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_036,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_003,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_030,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_024,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_140,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+notumor_090,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_187,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_198,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_250,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_170,Where is the tumor located?,right superior parietal convexity,146,open_ended,meningioma,130,right parietal convexity
+glioma_039,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_037,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_177,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_228,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_210,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_146,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_118,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_176,Where is the tumor located?,right temporal parietal region,152,open_ended,glioma,112,right frontal lobe
+meningioma_054,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_086,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_225,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_078,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_122,Where is the tumor located?,bifrontal base region,4,open_ended,glioma,112,right frontal lobe
+glioma_140,Where is the tumor located?,right frontal lobe,112,open_ended,glioma,112,right frontal lobe
+meningioma_036,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_030,Where is the tumor located?,right frontoparietal convexity,120,open_ended,meningioma,130,right parietal convexity
+pituitary_213,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_129,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_159,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_109,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_167,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_004,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_233,Where is the tumor located?,right parietal convexity,130,open_ended,meningioma,130,right parietal convexity
+meningioma_038,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_210,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_185,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_030,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_186,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_170,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_244,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_021,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_203,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_208,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_030,Where is the tumor located?,central posterior fossa,21,open_ended,glioma,112,right frontal lobe
+glioma_165,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_159,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_174,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_227,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+glioma_159,Where is the tumor located?,right parietal lobe,131,open_ended,glioma,112,right frontal lobe
+glioma_093,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_068,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_176,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+pituitary_246,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+pituitary_218,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+pituitary_229,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_012,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_106,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+notumor_175,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+glioma_248,Where is the tumor located?,left frontal lobe,39,open_ended,glioma,112,right frontal lobe
+glioma_220,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_194,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_055,Where is the tumor located?,posterior fossa midline,94,open_ended,meningioma,160,sellar region
+meningioma_032,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_002,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_013,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_149,Where is the tumor located?,posterior fossa skull base,98,open_ended,meningioma,130,right parietal convexity
+notumor_032,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_078,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+notumor_011,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_207,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_123,Where is the tumor located?,sellar region anterior skull base,161,open_ended,pituitary,159,sellar and suprasellar region
+notumor_013,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_020,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+glioma_210,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_171,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_179,Where is the tumor located?,right anterior frontal region,104,open_ended,meningioma,130,right parietal convexity
+pituitary_089,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_104,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+pituitary_155,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_091,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_050,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_038,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_066,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+glioma_144,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_013,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_214,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_246,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_194,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_206,Where is the tumor located?,right temporal skull base,155,open_ended,meningioma,130,right parietal convexity
+glioma_209,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_107,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_029,Where is the tumor located?,right frontoparietal convexity,120,open_ended,meningioma,130,right parietal convexity
+meningioma_042,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_130,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_227,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_243,Where is the tumor located?,right temporal lobe,149,open_ended,glioma,112,right frontal lobe
+pituitary_176,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_100,Where is the tumor located?,posterior fossa cerebellar vermis,90,open_ended,glioma,112,right frontal lobe
+pituitary_140,Where is the tumor located?,sellar region suprasellar extension,166,open_ended,pituitary,159,sellar and suprasellar region
+pituitary_093,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_005,Where is the tumor located?,left occipital region,55,open_ended,glioma,112,right frontal lobe
+glioma_172,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_009,Where is the tumor located?,bilateral parietal lobes,11,open_ended,glioma,112,right frontal lobe
+pituitary_238,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_249,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+pituitary_219,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+glioma_132,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_114,Where is the tumor located?,sellar region midline,164,open_ended,pituitary,159,sellar and suprasellar region
+glioma_231,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_211,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_223,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_135,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_202,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,30,glioma
+meningioma_177,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+notumor_226,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_028,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_062,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_062,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_117,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_044,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_197,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_103,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_135,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_039,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_003,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_172,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,30,glioma
+pituitary_226,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_090,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_157,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_184,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_209,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_087,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_143,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_227,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_190,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,30,glioma
+meningioma_205,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_017,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_032,Where is the tumor located?,right parietal lobe,131,open_ended,glioma,112,right frontal lobe
+notumor_099,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_082,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_243,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_002,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+pituitary_244,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+glioma_246,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_242,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_048,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_035,Where is the tumor located?,left temporal region,75,open_ended,meningioma,130,right parietal convexity
+glioma_249,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_175,Where is the tumor located?,right temporal lobe,149,open_ended,glioma,112,right frontal lobe
+notumor_159,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_152,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_046,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_076,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_137,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_171,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_175,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_016,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_190,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_209,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_142,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_247,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_018,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_132,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_052,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_061,Where is the tumor located?,right posterior fossa,138,open_ended,meningioma,130,right parietal convexity
+notumor_061,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_005,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_031,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_243,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_137,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_165,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_150,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_017,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_161,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_127,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_240,Where is the tumor located?,left temporal lobe,70,open_ended,glioma,112,right frontal lobe
+pituitary_232,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+pituitary_083,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,159,sellar and suprasellar region
+glioma_200,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_088,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_057,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_019,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_089,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_200,Where is the tumor located?,left cerebellar hemisphere,36,open_ended,meningioma,130,right parietal convexity
+pituitary_122,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_237,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_110,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_070,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_022,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_174,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_200,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_012,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+notumor_112,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_118,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_239,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_242,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_184,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,130,right parietal convexity
+notumor_211,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+glioma_160,Where is the tumor located?,right thalamic region,157,open_ended,glioma,112,right frontal lobe
+notumor_176,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_055,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_040,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_104,Where is the tumor located?,right frontal parasagittal region,115,open_ended,meningioma,130,right parietal convexity
+notumor_153,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_132,Where is the tumor located?,right frontal convexity,111,open_ended,meningioma,130,right parietal convexity
+notumor_224,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_076,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_221,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+pituitary_213,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_151,Where is the tumor located?,right temporal convexity,147,open_ended,meningioma,130,right parietal convexity
+glioma_041,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_177,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_240,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_059,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_218,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_221,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_220,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_230,Where is the tumor located?,right temporal skull base,155,open_ended,meningioma,130,right parietal convexity
+pituitary_241,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_222,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_051,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_025,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_193,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+pituitary_140,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_046,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_075,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_064,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_026,Where is the tumor located?,left frontal lobe,39,open_ended,glioma,112,right frontal lobe
+meningioma_112,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_111,Where is the tumor located?,right frontal parasagittal region,115,open_ended,meningioma,130,right parietal convexity
+meningioma_163,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_147,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_157,Where is the tumor located?,right temporal lobe,149,open_ended,glioma,112,right frontal lobe
+meningioma_175,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_048,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_026,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_050,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+glioma_101,Where is the tumor located?,posterior fossa brainstem region,87,open_ended,glioma,112,right frontal lobe
+meningioma_039,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_064,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+pituitary_216,Where is the tumor located?,sellar and parasellar region,158,open_ended,pituitary,160,sellar region
+meningioma_171,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+notumor_043,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_186,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_015,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_016,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_198,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_028,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_114,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_076,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_082,Where is the tumor located?,right frontal parasagittal region,115,open_ended,meningioma,130,right parietal convexity
+pituitary_237,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_013,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_221,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_161,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_222,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_156,Where is the tumor located?,posterior fossa region,96,open_ended,glioma,112,right frontal lobe
+pituitary_099,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_173,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_197,Where is the tumor located?,anterior skull base region,3,open_ended,meningioma,130,right parietal convexity
+glioma_066,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_159,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,30,glioma
+notumor_093,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+meningioma_110,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_050,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_243,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_131,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_201,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_161,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_246,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_097,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_150,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_222,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+meningioma_240,Where is the tumor located?,right frontal convexity,111,open_ended,meningioma,130,right parietal convexity
+pituitary_245,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_123,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_211,Where is the tumor located?,left parietal convexity,56,open_ended,meningioma,130,right parietal convexity
+meningioma_184,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_228,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+notumor_055,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_037,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_134,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_247,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_093,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_113,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_229,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_001,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_203,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+glioma_165,Where is the tumor located?,left frontal paramedian region,41,open_ended,glioma,112,right frontal lobe
+meningioma_199,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+notumor_106,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_128,Where is the tumor located?,posterior fossa sellar region,97,open_ended,pituitary,160,sellar region
+notumor_100,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+glioma_047,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_037,Where is the tumor located?,right frontal convexity,111,open_ended,meningioma,130,right parietal convexity
+notumor_069,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_153,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_048,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+pituitary_200,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+notumor_146,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_233,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+notumor_008,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+glioma_050,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_171,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_233,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+pituitary_082,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+glioma_074,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_192,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_101,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_031,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_064,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+glioma_051,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_128,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_209,Where is the tumor located?,right frontal region,118,open_ended,glioma,112,right frontal lobe
+pituitary_074,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_110,Where is the tumor located?,right frontal parasagittal region,115,open_ended,meningioma,130,right parietal convexity
+meningioma_184,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_174,Where is the tumor located?,right sphenoid wing region,143,open_ended,meningioma,130,right parietal convexity
+notumor_225,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_177,Where is the tumor located?,posterior fossa cerebellar,88,open_ended,meningioma,130,right parietal convexity
+notumor_220,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_039,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_166,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+notumor_119,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_109,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_188,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_190,Where is the tumor located?,right temporal convexity,147,open_ended,meningioma,112,right frontal lobe
+glioma_214,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_148,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_067,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+glioma_161,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_001,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_041,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_175,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_229,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+pituitary_250,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+notumor_175,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_160,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_047,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_115,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_115,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+notumor_146,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_073,Where is the tumor located?,posterior fossa midline,94,open_ended,meningioma,130,right parietal convexity
+notumor_202,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_123,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_131,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_214,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_035,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_077,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_216,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_158,Where is the tumor located?,right posterior fossa,138,open_ended,meningioma,130,right parietal convexity
+notumor_186,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_112,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_250,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_166,Where is the tumor located?,left hemisphere frontoparietal region,51,open_ended,glioma,112,right frontal lobe
+glioma_171,Where is the tumor located?,right frontal lobe,112,open_ended,glioma,112,right frontal lobe
+meningioma_065,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+notumor_192,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_188,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_080,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_163,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_109,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_120,Where is the tumor located?,right frontal convexity,111,open_ended,meningioma,130,right parietal convexity
+glioma_178,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_108,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_071,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_193,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_244,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_169,Where is the tumor located?,sellar region suprasellar extension,166,open_ended,pituitary,160,sellar region
+pituitary_171,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_077,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_101,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_103,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_075,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_060,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_076,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_125,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_105,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_010,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_133,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_166,Where is the tumor located?,posterior fossa midline,94,open_ended,meningioma,130,right parietal convexity
+meningioma_089,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+notumor_224,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_231,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_157,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_161,Where is the tumor located?,right posterior fossa,138,open_ended,meningioma,130,right parietal convexity
+meningioma_013,Where is the tumor located?,left temporal region,75,open_ended,meningioma,130,right parietal convexity
+glioma_199,Where is the tumor located?,right parietal occipital region,133,open_ended,glioma,112,right frontal lobe
+pituitary_174,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_016,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_150,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_152,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_183,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_157,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_205,Where is the tumor located?,right parietal convexity,130,open_ended,meningioma,130,right parietal convexity
+notumor_040,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+notumor_079,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_181,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_046,Where is the tumor located?,right parietal convexity,130,open_ended,meningioma,130,right parietal convexity
+pituitary_144,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_015,Where is the tumor located?,right anterior skull base,105,open_ended,meningioma,130,right parietal convexity
+glioma_136,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_061,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_170,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_200,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_213,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_120,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_134,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_190,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_231,Where is the tumor located?,right frontoparietal convexity,120,open_ended,meningioma,130,right parietal convexity
+glioma_024,Where is the tumor located?,right parietal lobe,131,open_ended,glioma,112,right frontal lobe
+meningioma_006,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_141,Where is the tumor located?,cerebellar vermis posterior fossa,29,open_ended,glioma,130,right parietal convexity
+notumor_079,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_198,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_216,Where is the tumor located?,right parietal lobe,131,open_ended,glioma,112,right frontal lobe
+notumor_162,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_191,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_122,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_235,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+notumor_157,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_221,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_010,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_052,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_099,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_211,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_218,What type of brain tumor is shown?,glioma,30,open_ended,glioma,85,pituitary tumor
+glioma_100,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_204,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_210,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_073,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+meningioma_008,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_173,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_122,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_166,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_203,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_241,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_143,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_194,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_224,Where is the tumor located?,parasagittal frontal region,82,open_ended,meningioma,130,right parietal convexity
+pituitary_183,Where is the tumor located?,sellar region anterior skull base,161,open_ended,pituitary,160,sellar region
+pituitary_037,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_202,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+meningioma_188,Where is the tumor located?,posterior fossa midline,94,open_ended,meningioma,130,right parietal convexity
+notumor_162,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_114,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+glioma_126,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_030,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_027,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_245,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_195,Where is the tumor located?,right frontal lobe,112,open_ended,glioma,112,right frontal lobe
+meningioma_216,Where is the tumor located?,right frontal convexity,111,open_ended,meningioma,130,right parietal convexity
+glioma_051,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_046,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_025,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_023,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_017,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+pituitary_070,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+notumor_141,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+meningioma_200,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_095,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+pituitary_085,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_105,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_175,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,30,glioma
+glioma_098,Where is the tumor located?,right frontal parietal lobe,116,open_ended,glioma,112,right frontal lobe
+pituitary_161,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+meningioma_131,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_041,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+notumor_034,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_124,Where is the tumor located?,right parietal convexity,130,open_ended,meningioma,130,right parietal convexity
+pituitary_174,Where is the tumor located?,sellar region midline,164,open_ended,pituitary,160,sellar region
+pituitary_007,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+meningioma_039,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_092,Where is the tumor located?,central skull base region,25,open_ended,meningioma,130,right parietal convexity
+pituitary_143,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_017,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_016,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_046,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_029,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+glioma_124,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+glioma_095,Where is the tumor located?,suprasellar hypothalamic region,171,open_ended,glioma,112,right frontal lobe
+pituitary_059,Where is the tumor located?,central sellar region,23,open_ended,pituitary,160,sellar region
+glioma_191,Where is the tumor located?,right frontoparietal region,122,open_ended,glioma,112,right frontal lobe
+pituitary_067,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_198,Where is the tumor located?,posterior fossa cerebellar region,89,open_ended,glioma,112,right frontal lobe
+meningioma_020,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+glioma_220,What type of brain tumor is shown?,glioma,30,open_ended,glioma,77,meningioma
+glioma_085,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_206,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_192,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+notumor_200,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_086,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+notumor_194,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_005,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+meningioma_069,Where is the tumor located?,left cerebellar hemisphere,36,open_ended,meningioma,130,right parietal convexity
+notumor_200,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_134,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+glioma_114,Where is the tumor located?,bilateral thalamic region,16,open_ended,glioma,112,right frontal lobe
+notumor_086,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+glioma_204,Where is the tumor located?,right temporal occipital region,150,open_ended,glioma,112,right frontal lobe
+pituitary_080,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_249,Where is the tumor located?,right frontal lobe,112,open_ended,glioma,112,right frontal lobe
+meningioma_246,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+glioma_051,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+glioma_041,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_145,Where is the tumor located?,left temporal convexity,68,open_ended,meningioma,130,right parietal convexity
+pituitary_195,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_113,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_176,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_126,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+notumor_224,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+notumor_211,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_033,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_154,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_116,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_006,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+notumor_019,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+notumor_115,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_147,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+meningioma_239,Where is the tumor located?,left temporal skull base,76,open_ended,meningioma,130,right parietal convexity
+notumor_039,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_064,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_009,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+glioma_194,Where is the tumor located?,central corpus callosum region,17,open_ended,glioma,112,right frontal lobe
+pituitary_140,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_125,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_120,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+notumor_001,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+meningioma_098,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+pituitary_035,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+meningioma_091,Where is the tumor located?,right parietal lobe,131,open_ended,meningioma,130,right parietal convexity
+pituitary_237,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_154,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+notumor_105,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_207,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_011,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+glioma_061,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+pituitary_016,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_091,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+glioma_151,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+pituitary_109,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+meningioma_075,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+pituitary_054,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+pituitary_223,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+pituitary_018,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_162,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_223,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+notumor_140,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_051,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_133,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_220,Where is the tumor located?,sellar region,160,open_ended,pituitary,160,sellar region
+meningioma_067,Where is the tumor located?,right anterior temporal region,106,open_ended,meningioma,130,right parietal convexity
+notumor_160,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+meningioma_225,Where is the tumor located?,right temporal skull base,155,open_ended,meningioma,130,right parietal convexity
+glioma_141,What type of brain tumor is shown?,glioma,30,open_ended,glioma,77,meningioma
+notumor_238,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
+pituitary_184,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,77,meningioma
+notumor_002,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+glioma_048,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+meningioma_202,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_244,Where is the tumor located?,right parietal lobe,131,open_ended,glioma,112,right frontal lobe
+pituitary_187,Where is the tumor located?,sellar region large suprasellar mass,162,open_ended,pituitary,159,sellar and suprasellar region
+notumor_137,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_012,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+notumor_189,Is this a pituitary tumor?,no,79,binary,no tumor,79,no
+pituitary_140,What type of brain tumor is shown?,pituitary tumor,85,open_ended,pituitary,85,pituitary tumor
+meningioma_021,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_119,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_159,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_227,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_187,Where is the tumor located?,right frontoparietal region,122,open_ended,glioma,112,right frontal lobe
+pituitary_076,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_006,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_097,Is this a glioma tumor?,no,79,binary,no tumor,79,no
+glioma_115,Where is the tumor located?,right temporal skull base,155,open_ended,glioma,112,right frontal lobe
+meningioma_047,Is there a tumor visible in this MRI scan?,yes,174,binary,meningioma,174,yes
+pituitary_082,Is there a tumor visible in this MRI scan?,yes,174,binary,pituitary,174,yes
+glioma_239,Where is the tumor located?,left cerebellar region,37,open_ended,glioma,112,right frontal lobe
+meningioma_054,Where is the tumor located?,anterior skull base region,3,open_ended,meningioma,130,right parietal convexity
+pituitary_109,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+pituitary_214,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+notumor_122,Is this a meningioma tumor?,no,79,binary,no tumor,79,no
+meningioma_129,Where is the tumor located?,right cerebellar hemisphere,109,open_ended,meningioma,130,right parietal convexity
+pituitary_098,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,159,sellar and suprasellar region
+glioma_193,Is this a glioma tumor?,yes,174,binary,glioma,174,yes
+notumor_096,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_172,Is this a meningioma tumor?,yes,174,binary,meningioma,174,yes
+glioma_033,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+notumor_184,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+pituitary_230,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+notumor_043,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_112,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+pituitary_034,Where is the tumor located?,sellar and suprasellar region,159,open_ended,pituitary,160,sellar region
+meningioma_121,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_083,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+meningioma_060,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_117,What type of brain tumor is shown?,glioma,30,open_ended,glioma,30,glioma
+pituitary_043,Is this a pituitary tumor?,yes,174,binary,pituitary,174,yes
+meningioma_160,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+notumor_024,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+notumor_194,Is there a tumor visible in this MRI scan?,no,79,binary,no tumor,79,no
+meningioma_024,Where is the tumor located?,posterior fossa cerebellar region,89,open_ended,meningioma,130,right parietal convexity
+meningioma_033,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+meningioma_074,What type of brain tumor is shown?,meningioma,77,open_ended,meningioma,77,meningioma
+glioma_216,Is there a tumor visible in this MRI scan?,yes,174,binary,glioma,174,yes
+notumor_127,Where is the tumor located?,no tumor present,81,open_ended,no tumor,81,no tumor present
+notumor_044,What type of brain tumor is shown?,no tumor,80,open_ended,no tumor,80,no tumor
